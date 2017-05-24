@@ -1,0 +1,11 @@
+Bouvier Selma 16 16 16 16 16 16 
+Explosion Nathan 5 4 3 2 1 0 
+Flanders Ned 12 14 17 23 85 95 
+Flintstone Fred 15 17 22 18 80 60 
+Jetson George 20 21 22 23 70 83 
+Muntz Nelson 20 15 10 5 60 70 
+Simpson Lisa 25 25 25 90 100 100 
+Skinner Seymour 19 23 21 24 78 83 
+Spuckler Cletus 1 2 3 4 5 6 
+Terwilliger Robert 23 21 19 17 80 90 
+Wiggum Clancy 6 5 4 3 2 1 
